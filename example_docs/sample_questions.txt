@@ -1,0 +1,15 @@
+# Sample Questions for Testing the RAG Application
+
+## Questions for Climate Change Document:
+
+1. What is the main driver of climate change since the 1800s?
+2. How much has the Earth's average surface temperature risen?
+3. What are the two main approaches to address climate change?
+4. When was the Paris Agreement signed?
+
+## Questions for Quarterly Report Document:
+
+1. What was TechnoVate's revenue in Q1 2025?
+2. Which division showed the highest growth rate?
+3. Where did TechnoVate open new offices in Q1 2025?
+4. Who is the CEO of TechnoVate?

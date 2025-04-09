@@ -1,0 +1,47 @@
+# Climate Change: An Overview
+
+Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, but since the 1800s, human activities have been the main driver of climate change, primarily due to the burning of fossil fuels like coal, oil, and gas, which produces heat-trapping gases.
+
+## Key Indicators of Climate Change
+
+1. Rising Global Temperatures: The Earth's average surface temperature has risen about 1.1°C since the late 19th century, with most of the warming occurring in the past 40 years.
+
+2. Shrinking Ice Sheets: The Greenland and Antarctic ice sheets have decreased in mass. Data from NASA's Gravity Recovery and Climate Experiment show Greenland lost an average of 286 billion tons of ice per year between 1993 and 2016.
+
+3. Sea Level Rise: Global sea level rose about 8-9 inches (21-24 centimeters) since 1880. The rate in the last two decades is nearly double that of the last century.
+
+4. Ocean Acidification: The acidity of surface ocean waters has increased by about 30% since the beginning of the Industrial Revolution. This increase is the result of humans emitting more carbon dioxide into the atmosphere.
+
+## Impacts of Climate Change
+
+Climate change affects ecosystems, communities, and economies around the world:
+
+- Extreme Weather Events: Increased frequency and intensity of extreme weather events such as hurricanes, wildfires, droughts, and floods.
+
+- Biodiversity Loss: Many plant and animal species are at risk of extinction due to changing habitats, weather patterns, and other factors.
+
+- Food Security: Changes in temperature and precipitation patterns can affect agricultural productivity and food security.
+
+- Human Health: Climate change affects human health directly through increased heat stress, air pollution, and extreme weather events, and indirectly through vector-borne diseases, water quality impacts, and mental health effects.
+
+## Mitigation Strategies
+
+Efforts to address climate change focus on two main approaches:
+
+1. Mitigation: Reducing greenhouse gas emissions through:
+   - Transitioning to renewable energy sources
+   - Improving energy efficiency
+   - Sustainable transportation
+   - Reducing deforestation and promoting reforestation
+
+2. Adaptation: Adjusting to actual or expected climate change impacts:
+   - Building sea walls against rising sea levels
+   - Developing drought-resistant crops
+   - Creating early warning systems for extreme weather events
+   - Implementing water conservation measures
+
+The Intergovernmental Panel on Climate Change (IPCC), established in 1988, provides policymakers with regular scientific assessments on climate change, its impacts, and potential risks, as well as adaptation and mitigation strategies.
+
+According to the 2021 IPCC report, limiting global warming to 1.5°C would require "rapid and far-reaching" transitions in land, energy, industry, buildings, transport, and cities. Global net human-caused emissions of carbon dioxide would need to fall by about 45% from 2010 levels by 2030, reaching net zero around 2050.
+
+The challenge of climate change requires global cooperation, innovative solutions, and commitment from governments, businesses, communities, and individuals worldwide.
